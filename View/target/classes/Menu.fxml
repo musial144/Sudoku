@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.kompo.Controller">
+   <children>
+      <Button fx:id="easyButton" layoutX="246.0" layoutY="97.0" mnemonicParsing="false" onAction="#setEasy" prefHeight="26.0" prefWidth="100.0" text="%_easy" />
+      <Button fx:id="normalButton" layoutX="246.0" layoutY="151.0" mnemonicParsing="false" onAction="#setNormal" prefHeight="26.0" prefWidth="100.0" text="%_normal" />
+      <Button fx:id="hardButton" layoutX="246.0" layoutY="200.0" mnemonicParsing="false" onAction="#setHard" prefHeight="26.0" prefWidth="100.0" text="%_hard" />
+      <Button fx:id="polishButton" layoutX="479.0" layoutY="152.0" mnemonicParsing="false" onAction="#polishLanguage" text="%_polish" />
+      <Button fx:id="englishButton" layoutX="495.0" layoutY="111.0" mnemonicParsing="false" onAction="#englishLanguage" text="%_english" />
+   </children>
+</AnchorPane>

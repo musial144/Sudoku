@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Model/ModelProject.iml" filepath="$PROJECT_DIR$/Model/ModelProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SudokuGameProject.iml" filepath="$PROJECT_DIR$/SudokuGameProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/View/ViewProject.iml" filepath="$PROJECT_DIR$/View/ViewProject.iml" />
+    </modules>
+  </component>
+</project>

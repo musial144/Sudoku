@@ -1,0 +1,5 @@
+pl\kompo\exceptions\NoFileException.class
+pl\kompo\exceptions\NoDataException.class
+pl\kompo\Controller.class
+pl\kompo\exceptions\ControllerException.class
+pl\kompo\Main.class
